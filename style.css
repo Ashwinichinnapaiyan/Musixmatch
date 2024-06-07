@@ -1,0 +1,163 @@
+*
+{
+    margin:0; padding:0;
+}
+
+nav
+{
+    display: flex;
+    align-items: center; 
+    justify-content: space-between;
+}
+nav ul{
+    display: flex;
+    list-style:none;
+    justify-content: space-between;
+    align-items: center;
+    width:50%;
+    font-size: 15px; 
+    cursor: pointer;
+    margin-left: 20%;
+    /* font: weight 500px; */
+}
+.Firstsec h1{
+    font-size: 90px;
+    margin-left: 100px;
+}
+.subdiv1,.subdiv2,.subdiv3,.subdiv4{
+    display: flex;
+    align-items: center;
+    justify-content:center;
+    margin-left: 100px;
+}
+.subdiv1 ul,.subdiv2 ul,.subdiv3 ul,.subdiv4 ul{
+    list-style-type:none;
+}
+.subdiv2 img,.subdiv3 img,.subdiv4 img{
+    height: 60px;
+    width: 60px;
+}
+.pic-1 img{
+    height: 500px;
+    width: 1200px;
+    margin-left: 100px;
+}
+.logo-1,.logo-2,.logo-3,.logo-4{
+     border: radius 50px;
+     width: 300px;
+     margin-left:2%;
+}
+.logo-1:hover,.logo-2:hover,.logo-3:hover,.logo-4:hover{
+    scale: 1.1;
+}
+.li1{
+    text-decoration: none;
+    color: black;
+    font-size:large;
+    font-family:'Times New Roman', Times, serif;
+
+}
+.button{
+    background-color: black;
+color: azure;
+font-size: 15px;
+border-radius: 20px;
+padding: 5px;
+cursor: pointer;
+margin-right: 50px;
+}
+.a1,.a2,.a3,.a4{
+    text-decoration: none;
+    color: black;
+    margin: 50%;
+}
+.seemore{
+    text-decoration: none;
+color: black;
+margin-left: 45%;
+margin-top: 10%;
+font-size: 30px;
+background-color: white;
+color: black;
+border-radius: 100px;
+}
+h2{
+    margin-left:90px;
+    font-family:sans-serif;
+    text-align: center;
+}
+.al{
+    margin-left: 180px;
+    display: flex;
+    align-items: center; 
+}
+.all{
+    margin-left: 30%;
+    display: flex;
+    align-items: center; 
+}
+
+.foot image{
+    margin-left:5%;
+}
+.box{
+    height: 50px;
+    width: 200px;
+    color: black;
+    margin-left:2%;
+    font-family:sans-serif;
+}
+.footer{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    align-items: center;
+    width:50%;
+    font-size: 25px; 
+    cursor: pointer;
+    margin-left: 25%;
+}
+.li2,.li3,.li4{
+    display: flex;   
+    justify-content: space-between; 
+    align-items: center;
+    font-size: 15px;
+    color:rgb(27, 24, 24);
+    list-style:none;
+
+}
+.li2 :hover,.li3 :hover,.li4 :hover{
+    color: blue;
+}
+h3{
+    font-size: 25px;
+    color: black;
+}
+.final{
+    margin-left: 20%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
